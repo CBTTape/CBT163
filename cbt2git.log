@@ -1,0 +1,17 @@
+2025-04-13 14:22:46.745698 - Received CBT.V508.FILE163.PDS from FILE163.XMI 
+2025-04-13 14:22:46.746802 - Found $$$$$DOC.txt (text/plain) in CBT.V508.FILE163.PDS, moved to PDS/$$$$$DOC
+2025-04-13 14:22:46.746879 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE163.PDS, moved to PDS/$$$#DATE
+2025-04-13 14:22:46.746944 - Found @FILE163.txt (text/plain) in CBT.V508.FILE163.PDS, moved to PDS/@FILE163
+2025-04-13 14:22:46.747009 - Found ADJXAMI.jcl (text/plain) in CBT.V508.FILE163.PDS, moved to PDS/ADJXAMI
+2025-04-13 14:22:46.747085 - Found ADJX006C.jcl (text/plain) in CBT.V508.FILE163.PDS, moved to PDS/ADJX006C
+2025-04-13 14:22:46.747143 - Found ADMM02.txt (text/plain) in CBT.V508.FILE163.PDS, moved to PDS/ADMM02
+2025-04-13 14:22:46.747242 - Found CATLG.jcl (text/plain) in CBT.V508.FILE163.PDS, moved to PDS/CATLG
+2025-04-13 14:22:46.747351 - Found CHARGEN.jcl (text/plain) in CBT.V508.FILE163.PDS, moved to PDS/CHARGEN
+2025-04-13 14:22:46.747463 - Found DA.bin (application/octet-stream) in CBT.V508.FILE163.PDS, moved to PDS/DA
+2025-04-13 14:22:46.747591 - Found DD.jcl (text/plain) in CBT.V508.FILE163.PDS, moved to PDS/DD
+2025-04-13 14:22:46.747656 - Found DOM.jcl (text/plain) in CBT.V508.FILE163.PDS, moved to PDS/DOM
+2025-04-13 14:22:46.747735 - Found IFG0EX0B.txt (text/plain) in CBT.V508.FILE163.PDS, moved to PDS/IFG0EX0B
+2025-04-13 14:22:46.747873 - Found RSMAP.bin (application/octet-stream) in CBT.V508.FILE163.PDS, moved to PDS/RSMAP
+2025-04-13 14:22:46.747949 - Found S213RC30.jcl (text/plain) in CBT.V508.FILE163.PDS, moved to PDS/S213RC30
+2025-04-13 14:22:46.748013 - Found WTO.jcl (text/plain) in CBT.V508.FILE163.PDS, moved to PDS/WTO
+2025-04-13 14:22:46.748087 - Found ZAPDSCB.jcl (text/plain) in CBT.V508.FILE163.PDS, moved to PDS/ZAPDSCB
